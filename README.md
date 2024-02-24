@@ -4,7 +4,7 @@
 
 Welcome to my GitHub account! Here you'll find a collection of my projects and contributions
 
-Software Engineering Enthusiast #🤖
+Software Engineering Enthusiast 🤖
 B.Sc. in Business Information Systems (Special) 🎓
 Self-Learner 🔍
 Freelancer 🔗
