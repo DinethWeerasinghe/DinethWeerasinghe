@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Dineth Weerasinghe 🚀
+
+Software Engineering Enthusiast 🤖
+B.Sc. in Business Information Systems (Special) 🎓
+Self-Learner 🔍
+Freelancer 🔗
+Programmer 💻
+
+http://dineth.lovestoblog.com/
+
+
+
 <!--
 **DinethWeerasinghe/DinethWeerasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
