@@ -13,10 +13,10 @@ Programmer 💻
 ## About Me
 
 I’m a graduate in B.Sc. (Special) in Business Information Systems from the University of Sri Jayewardenepura. Currently, I work as an Associate Data Engineer, where I focus on building and optimizing data-driven solutions.
-💻 I have a strong foundation in both business and technology, with hands-on experience in software development, data engineering, and freelance projects involving design and other developments.
-🚀 I'm passionate about creating impactful software and data solutions that solve real-world problems. I enjoy continuous learning and am actively developing personal and collaborative projects to strengthen my skills in software engineering, data pipelines, and cloud technologies.
-🎯 My goal is to contribute meaningfully to the tech industry by building innovative systems and being part of teams that make a difference.
-🔗 Let’s connect and collaborate on meaningful work!
+I have a strong foundation in both business and technology, with hands-on experience in software development, data engineering, and freelance projects involving design and other developments.
+I'm passionate about creating impactful software and data solutions that solve real-world problems. I enjoy continuous learning and am actively developing personal and collaborative projects to strengthen my skills in software engineering, data pipelines, and cloud technologies.
+My goal is to contribute meaningfully to the tech industry by building innovative systems and being part of teams that make a difference.
+Let’s connect and collaborate on meaningful work!
 
 ## Contact Me
 
