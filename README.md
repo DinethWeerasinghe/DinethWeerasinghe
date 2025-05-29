@@ -4,7 +4,7 @@
 
 Welcome to my GitHub account! Here you'll find a collection of my projects and contributions
 
-Data and Software Engineering Enthusiast 🤖
+Associate Data Engineer 🤖
 B.Sc. in Business Information Systems (Special) 🎓
 Self-Learner 🔍
 Freelancer 🔗
@@ -12,7 +12,11 @@ Programmer 💻
 
 ## About Me
 
-I am a final-year IT undergraduate at the University of Sri Jayewardenepura hoping to participate in an internship. I am currently pursuing a B.Sc. in Business Information Systems (Special). I graduated from high school with the highest grade and rank. Currently, I am self-studying and freelancing using my skills (design, editing). I intend to pursue a career in software engineering, which I am currently preparing for (developing software projects). In the future, I hope to enter the real business world and give my full contribution to solving problems.
+I’m a graduate in B.Sc. (Special) in Business Information Systems from the University of Sri Jayewardenepura. Currently, I work as an Associate Data Engineer, where I focus on building and optimizing data-driven solutions.
+💻 I have a strong foundation in both business and technology, with hands-on experience in software development, data engineering, and freelance projects involving design and other developments.
+🚀 I'm passionate about creating impactful software and data solutions that solve real-world problems. I enjoy continuous learning and am actively developing personal and collaborative projects to strengthen my skills in software engineering, data pipelines, and cloud technologies.
+🎯 My goal is to contribute meaningfully to the tech industry by building innovative systems and being part of teams that make a difference.
+🔗 Let’s connect and collaborate on meaningful work!
 
 ## Contact Me
 
